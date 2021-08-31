@@ -1,24 +1,19 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Webinar Platforms
+image: /img/webinar.png
+heading: Plaforms for Webinars, Online Meetings & Virtual Conferences
+subheading: Tools for Webinars, Online Meetings & Virtual Conferences
 mainpitch:
-  title: Why Kaldi
+  title: Compare the Best Tools for Virtual Events
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    We've curated the best apps, platforms, and tools for your next online
+    meeting, webinar, virtual conference, or digital event. 
+description: Discover market leading software for for digital events, virtual
+  meetings, video calls and more.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/blog-index.jpg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
