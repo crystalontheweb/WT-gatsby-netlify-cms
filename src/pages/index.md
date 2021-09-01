@@ -14,7 +14,7 @@ description: Discover market leading software for for digital events, virtual
 intro:
   blurbs:
     - image: /img/zoom-blue.jpg
-      text: "Recent years have seen a major increase in the use of Zoom for webinars,
+      text: "<a href="/">Home</a>Recent years have seen a major increase in the use of Zoom for webinars,
         remote work, distance education, and online social relations. The
         increase led to Zoom being the 5th most downloaded mobile app worldwide
         in 2020 at 477 million downloads. "
